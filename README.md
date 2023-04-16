@@ -12,9 +12,9 @@ Aqui você coloca links para acessar mais facilmente cada um dos tópicos do seu
 
 Exemplo:
 
-- [Arquitetura](#architecture)
+- [Architecture](#architecture)
 - [Features](#features)
-- [Instruções de execução](#build-instructions)
+- [Build instructions](#build-instructions)
 
 ## Architecture
 
