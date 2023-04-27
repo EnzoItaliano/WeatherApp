@@ -8,10 +8,6 @@ I created this project to study C# using a service-oriented architecture (SOA). 
 
 ## Table of contents
 
-Aqui você coloca links para acessar mais facilmente cada um dos tópicos do seu README.
-
-Exemplo:
-
 - [Architecture](#architecture)
 - [Features](#features)
 - [Build instructions](#build-instructions)
